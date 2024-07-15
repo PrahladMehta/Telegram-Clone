@@ -9,9 +9,9 @@ Currently, two official plugins are available:
 
 # Steps to setup project
 - git clone https://github.com/PrahladMehta/Telegram-clone
-- cd your-project
+- cd Telegram-clone
 - npm install
 
 - Live url:- https://dulcet-puppy-dadf49.netlify.app
 - # I used dummy data for create a chat between user because to understand the api work flow is time consumeing .
-- # I am working on the light and dark mode.If it complete, i will update both live and code.
+- # I am working on the light and dark mode.If it completed, i will update both live and code.
