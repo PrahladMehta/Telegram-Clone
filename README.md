@@ -13,5 +13,5 @@ Currently, two official plugins are available:
 - npm install
 
 - Live url:- https://dulcet-puppy-dadf49.netlify.app
-- # I used dummy data for create a chat between user because to understand the api work flow is time consumeing .
-- # I am working on the light and dark mode.If it completed, i will update both live and code.
+- # The api is little bit confussing and i am not able to understand the schema or structure so i used dummy data to represent the chat between the user.
+- # I am working on the light and dark mode.If it's completed, i will update both live and code.
