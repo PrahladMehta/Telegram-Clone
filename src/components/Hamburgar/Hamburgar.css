@@ -1,0 +1,44 @@
+.hamburgar-page{
+      position:absolute;
+      top:30px;
+      left:0px;
+      z-index:10;
+      width:100vw;
+      height:90vh;
+      overflow:hidden;
+      transform:scale(0)
+
+
+}
+
+.hamburgar-active{
+      transform:scale(1)
+}
+
+.hamburgar-menu{
+
+      width:200px;
+      border-radius:20px;
+      background-color: #242424;
+      box-shadow:5px 5px 5px #242424;
+      display: flex;
+      flex-direction: column;
+
+      padding:6px 4px;
+      cursor:pointer;
+
+
+}
+
+.hamburgar-menu div{
+      display: flex;
+      align-items: center;
+      gap:20px;
+      padding:10px 5px;
+      border-radius:5px;
+
+}
+
+.hamburgar-menu div:hover{
+      background-color:rgba(0, 0, 0,.6);
+}
