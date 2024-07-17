@@ -14,4 +14,4 @@ Currently, two official plugins are available:
 
 - Live url:- https://dulcet-puppy-dadf49.netlify.app
 - # The api is little bit confussing and i am not able to understand the schema or structure so i used dummy data to represent the chat between the user.
-- # I am working on the light and dark mode.If it's completed, i will update both live and code.
+
