@@ -13,5 +13,5 @@ Currently, two official plugins are available:
 - npm install
 
 - Live url:- https://dulcet-puppy-dadf49.netlify.app
-- # The api is little bit confussing and i am not able to understand the schema or structure so i used dummy data to represent the chat between the user.
+
 
